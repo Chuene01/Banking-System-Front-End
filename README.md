@@ -113,6 +113,7 @@ This project simulates the build of a real-world banking platform while applying
 
 ##  Project Structure
 
+```text
 BANKING-SYSTEM-FRONT-END/
 │
 ├── backend/                         # FastAPI backend
@@ -168,6 +169,7 @@ BANKING-SYSTEM-FRONT-END/
 ├── index.html                       # Landing / home page
 ├── README.md                        # Main project documentation
 └── .env.example                     # Environment variable template
+```
 
 ---
 
