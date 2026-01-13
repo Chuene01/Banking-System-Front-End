@@ -228,7 +228,7 @@ MongoDB serves as the single source of truth for balances and transaction histor
 
 ---
 
-##  Docker (Week 2)
+##  Docker
 
 ```bash
 docker-compose up --build
