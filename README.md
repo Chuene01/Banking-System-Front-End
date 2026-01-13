@@ -117,19 +117,19 @@ BANKING-SYSTEM-FRONT-END/
 │
 ├── backend/                         # FastAPI backend
 │   ├── __pycache__/
-│   ├── venv/                        # Python virtual environment (local)
+│   ├── venv/                        # Local Python virtual environment
 │   ├── auth_utils.py                # JWT auth helpers
-│   ├── auth.py                      # Authentication routes
+│   ├── auth.py                      # Authentication logic
 │   ├── crud.py                      # Database CRUD operations
 │   ├── database.py                  # MongoDB Atlas connection
 │   ├── main.py                      # FastAPI entry point
-│   ├── models.py                    # Database models
-│   ├── schemas.py                   # Pydantic schemas
-│   ├── requirements.txt             # Python dependencies
-│   ├── Dockerfile                   # Backend Docker image
-│   ├── start.sh                     # Startup script
-│   ├── package.json                 # Backend scripts/config (if used)
-│   └── README.md                    # Backend documentation
+│   ├── models.py                   # Database models
+│   ├── schemas.py                  # Pydantic schemas
+│   ├── requirements.txt            # Python dependencies
+│   ├── Dockerfile                  # Backend Docker image
+│   ├── start.sh                    # Backend startup script
+│   ├── package.json                # Backend scripts/config (if used)
+│   └── README.md                   # Backend documentation
 │
 ├── frontend/                        # Frontend (HTML/CSS/JS)
 │   ├── css/                         # Stylesheets
@@ -143,7 +143,7 @@ BANKING-SYSTEM-FRONT-END/
 │   │   ├── deposit.html             # Deposit page
 │   │   ├── withdraw.html            # Withdrawal page
 │   │   └── history.html             # Transaction history
-│   └── README.md                    # Frontend documentation
+│   └── README.md                   # Frontend documentation
 │
 ├── UI Screenshots/                  # UI evidence for deliverables
 │   ├── Dashboard 1.PNG
@@ -159,7 +159,6 @@ BANKING-SYSTEM-FRONT-END/
 │   └── .gitignore
 │
 ├── kubernetes/                      # Kubernetes manifests (Week 3)
-│
 ├── terraform/                       # Infrastructure as Code (optional)
 │
 ├── nginx.conf                       # Nginx config for frontend
