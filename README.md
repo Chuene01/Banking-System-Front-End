@@ -24,10 +24,9 @@ This project simulates the build of a real-world banking platform while applying
 |------|------|
 | Ntando | DevOps Lead / Project Manager |
 | Kagiso | Frontend Lead |
-| Chuene | Backend Lead |
+| Chuene | Backend Lead / Frontend Developer |
 | Elona | Frontend / Backend Developer |
 | Zwavhudi | Frontend Developer |
-| Mthobisi | Frontend Developer |
 | Jaden | UI/UX Designer |
 | Florence | QA & Documentation |
 | Elihle | Agile Project Manager |
